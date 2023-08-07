@@ -1,0 +1,2 @@
+Best assignment so far. I had fun working on this and gained a lot of clarity on how OSOF works. 
+The instructions about sending the LSA packets could have been more clear. 

@@ -1,0 +1,54 @@
+  Destination  Path      Cost
+-------------  ------  ------
+            0  0        0
+            1           1e+07
+            2           1e+07
+            3           1e+07
+            4           1e+07
+            5           1e+07
+            6           1e+07
+            7           1e+07
+Routing Table for Node No. 0 at Time 0
+  Destination  Path       Cost
+-------------  -------  ------
+            0  0             0
+            1  0->1          4
+            2  0->2          3
+            3  0->3          3
+            4  0->4          5
+            5  0->2->5       7
+            6  0->2->6       8
+            7  0->2->7       8
+Routing Table for Node No. 0 at Time 20
+  Destination  Path       Cost
+-------------  -------  ------
+            0  0             0
+            1  0->1          4
+            2  0->2          3
+            3  0->3          3
+            4  0->4          5
+            5  0->2->5       7
+            6  0->2->6       8
+            7  0->2->7       8
+Routing Table for Node No. 0 at Time 40
+  Destination  Path       Cost
+-------------  -------  ------
+            0  0             0
+            1  0->1          4
+            2  0->2          3
+            3  0->3          3
+            4  0->4          5
+            5  0->2->5       7
+            6  0->2->6       8
+            7  0->2->7       8
+Routing Table for Node No. 0 at Time 60
+  Destination  Path       Cost
+-------------  -------  ------
+            0  0             0
+            1  0->1          4
+            2  0->2          3
+            3  0->3          3
+            4  0->4          5
+            5  0->2->5       7
+            6  0->2->6       8
+            7  0->2->7       8
